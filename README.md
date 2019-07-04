@@ -13,10 +13,10 @@ Node.js must be installed on machine. See https://nodejs.org/en/download/ for in
 Please see the homework instructions for full installation requirements. Once installed, the following commands are recognized:
 
 # Test Videos:
-(input needed)
+https://youtu.be/558zRka-hXE
 
 # Deployment
-Navigate to (input needed) to clone.
+Navigate to https://github.com/aaaronmiller/bamazon.git to clone.
 
 # Built With
 Visual Studio Code, Node.JS and mySQL
